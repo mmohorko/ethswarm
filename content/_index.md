@@ -6,4 +6,3 @@ seo:
   image: "/images/hero-2.jpg"
 
 ---
-qasdg test test testis
