@@ -1,7 +1,6 @@
 +++
 authors = []
 date = 2020-07-05T22:00:00Z
-draft = true
 excerpt = "It is here! After months of relentless developments on June 29 we proudly released the alpha version of Swarm’s new Bee client."
 hero = "/images/0-at6ksupodifghfhk.png"
 timeToRead = 10
