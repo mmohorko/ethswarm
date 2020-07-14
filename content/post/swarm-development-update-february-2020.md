@@ -1,7 +1,6 @@
 +++
 authors = []
 date = 2020-03-03T23:00:00Z
-draft = true
 excerpt = "Earlier this month, we published a blog post on how developers can start creating unstoppable DApps on Swarm. But how do you know it is not unicorn poop? In order to better inform you how Swarm is happening (soon), we are publishing this monthly development update to keep you updated and keep us accountable. Here, we only list what was done. Let’s go."
 hero = "/images/1-nq9ax4pxcsycsst9idt2yw.png"
 timeToRead = 5
