@@ -12,8 +12,6 @@ Bob: Noncon & chill._ [_Here’s the link._](https://noncon.org/)
 
 Sanitize your gamer seat, calibrate that mic, polish the camera window, and get ready for this Saturday night in, brought to you by [Noncon](https://noncon.org/) where the Swarm Team is going to participate and present.
 
-![](/images/1-_evuvpsqsql25mgsiirgzg.png)
-
 In the times of now, we are increasingly confronted with the dilemma of leveraging the power of data vs. preserving privacy and human rights. A new paradigm for the data driven world we live in is needed. Fair Data Society presents an alternative vision, the world of self-sovereign data commons.
 
 Join us on Saturday at 20:30 CET listening to Gregor Žavcer presenting Fair Data Society’s latest campaign, a privacy-centric, fair data approach to tracking COVID-19 by building on Swarm.
