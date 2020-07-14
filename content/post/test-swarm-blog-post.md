@@ -1,7 +1,6 @@
 +++
 authors = []
 date = 2020-07-13T22:00:00Z
-draft = true
 excerpt = "TRalala tralala lala la la"
 hero = "/images/coming-soon-banner.jpg"
 timeToRead = 12
