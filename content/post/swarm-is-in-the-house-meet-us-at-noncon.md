@@ -1,7 +1,6 @@
 +++
 authors = []
 date = 2020-03-29T22:00:00Z
-draft = true
 excerpt = "Alice: Any plans for Saturday evening? Bob: Noncon & chill. Here’s the link."
 hero = "/images/1-_evuvpsqsql25mgsiirgzg.png"
 timeToRead = 2
