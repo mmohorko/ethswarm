@@ -9,13 +9,13 @@ title = "This is Book of Swarm"
 +++
 Dear friend of Swarm,
 
-We are happy to finally share the [Book of Swarm](https://swarm-gateways.net/bzz:/latest.bookofswarm.eth/) with you. It’s basically Swarm’s 280-page white paper but with a more groovy title. Book of Swarm is a deep dive into the Swarm protocol. While the Book had been discussed at previous events, such as NonCon, the official announcement and pre-release was a major milestone for the Swarm team.
+We are happy to finally share the [Book of Swarm](https://swarm-gateways.net/bzz:/latest.bookofswarm.eth/) with you. It’s basically Swarm’s 280-page white paper but with a more groovy title. Book of Swarm is a deep dive into the Swarm protocol. While the Book had been discussed at previous events, such as NonCon, the official announcement and pre-release was a major milestone for the Swarm team. 
 
 [Book of Swarm](https://swarm-gateways.net/bzz:/latest.bookofswarm.eth/), like Swarm itself, is free and open source and available freely for download from the Swarm network itself. Book of Swarm takes a deep dive into the system architecture, specifications, protocols, potential use cases, APIs and the formalizations and proofs underlying the Swarm protocol. Swarm team invites everyone to comment, try the implementations and prove or disprove any of the materials presented.
 
 If you are a fan of Swarm, you will probably already know what it is. For those who just found us, a small recap.
 
-> [_Did you know that we are having the   
+> [_Did you know that we are having the  
 > Swarm Alpha Release Event on June 29th, 8PM UTC?  
 > Click here to RSVP and join our livestream._](https://swarm-gateways.net/bzz:/alpha.swarm.eth/)
 
