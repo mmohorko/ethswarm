@@ -40,6 +40,3 @@ fields:
   type: tag_list
   default: []
   label: Authors
-pages:
-- content/post/monthly-development-update-june-2020.md
-- content/post/test-swarm-blog-post.md
