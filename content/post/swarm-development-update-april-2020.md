@@ -1,7 +1,6 @@
 +++
 authors = []
 date = 2020-05-04T22:00:00Z
-draft = true
 excerpt = "Here is the latest update on the work that was done in April 2020. The team is working on the development of the Bee client and there is a good progress on global pinning too."
 hero = "/images/screenshot-2020-07-14-at-13-46-01.png"
 timeToRead = 0
