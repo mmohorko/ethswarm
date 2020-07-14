@@ -10,7 +10,7 @@ title = "Monthly Development Update — June 2020"
 +++
 ###### It is here! After months of relentless developments on June 29 we proudly released the alpha version of Swarm’s new Bee client.
 
-We marked this long-awaited milestone, that brings us one step closer to a fully working Swarm ecosystem, [with an online event](https://www.youtube.com/watch?v=BHDfzzWVVK0&list=PL6fQnFAjtuY9TfTMm5GYqgscQ_6a7LE8A) that featured some of the best minds in the Ethereum and wider blockchain space.
+We marked this long-awaited milestone, that brings us one step closer to a fully working Swarm ecosystem, [with an online event](https://www.youtube.com/watch?v=BHDfzzWVVK0&list=PL6fQnFAjtuY9TfTMm5GYqgscQ_6a7LE8A) that featured some of the best minds in the Ethereum and wider blockchain space. 
 
 In the event we showcased how developers can become part of the Swarm ecosystem and start using [our client](https://swarm-gateways.net/bzz:/docs.swarm.eth/) to build a different breed of software. Software that is rooted in an immutable, decentralized and censorship-resistant data storage and that can bring forth real digital sovereignty. For the really enthusiastic ones we have also [prepared grants](https://swarmgrants.typeform.com/to/SbrJiiiL) so keep reading if you want to learn more.
 
