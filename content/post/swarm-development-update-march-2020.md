@@ -1,7 +1,6 @@
 +++
 authors = []
 date = 2020-04-02T22:00:00Z
-draft = true
 excerpt = "Here is what we’ve been up to in the last month. The Book of Swarm was announced and we are maintaining a strong pace to move Swarm from the MVP phase through to the Alpha release. More details on this are coming soon."
 hero = "/images/screenshot-2020-07-14-at-13-46-01.png"
 timeToRead = 4
