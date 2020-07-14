@@ -2,7 +2,7 @@
 authors = []
 date = 2020-06-04T22:00:00Z
 excerpt = "Swarm’s Dev Team made great progress in the last month, here is the gist"
-hero = "/images/swarm-logo.jpg"
+hero = "/images/screenshot-2020-07-14-at-13-46-01.png"
 timeToRead = 7
 title = "Monthly Development Update — May 2020"
 
