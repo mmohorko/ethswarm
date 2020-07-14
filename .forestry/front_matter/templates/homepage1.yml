@@ -1,4 +1,31 @@
 ---
 label: Homepage1
 hide_body: false
-fields: []
+fields:
+- name: logo
+  type: file
+  config:
+    maxSize: 64
+  label: Logo
+  default: "/images/ethereum-swarm-logo.png"
+- name: we_are_the_hard_disc_of_the_world_computer
+  type: text
+  config:
+    required: false
+  label: We are the hard DiSC of the World Computer
+- name: lorem_ipsom_dolores
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Lorem ipsom dolores
+- name: posts1
+  type: blocks
+  label: Posts1
+  template_types: []
+  config:
+    min: 
+    max: 
