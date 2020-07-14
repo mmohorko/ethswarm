@@ -1,7 +1,6 @@
 +++
 authors = []
 date = 2020-06-24T22:00:00Z
-draft = true
 excerpt = "We are happy to finally share the Book of Swarm with you. It’s basically Swarm’s 280-page white paper but with a more groovy title. "
 hero = "/images/1-3q6uwtw0iemltecnwouefw.png"
 timeToRead = 10
