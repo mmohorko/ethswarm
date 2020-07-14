@@ -10,7 +10,7 @@ title = "Swarm Development Update — April 2020"
 +++
 #### Here is the latest update on the work that was done in April 2020. The team is working on the development of the Bee client and there is a good progress on global pinning too.
 
-![Image for post](https://miro.medium.com/max/1200/0*bpHWez4hDMhjCRi5.jpeg =600x50)
+### Core Track
 
 **Bee project:**
 
@@ -35,7 +35,7 @@ title = "Swarm Development Update — April 2020"
 * Implemented trojan chunks.
 * Add PSS monitoring capabilities to monitor the state of the sent trojan chunk.
 
-![Image for post](https://miro.medium.com/max/1200/0*wqz30HAZGSHZgM0S.jpeg =600x50)
+### DevOps Track
 
 * Completed observability stack for Bee project (prometheus, loki, jaeger and grafana)
 * Had presentation/demo — How to use observability stack for debugging purposes
@@ -49,18 +49,18 @@ title = "Swarm Development Update — April 2020"
 * Extended registration of ENS domains
 * Created DevOps Roadmap
 
-![Image for post](https://miro.medium.com/max/1200/0*zoZvU4xuYG3gObfm.jpeg =600x50)
+### Research Track
 
 * Designed the bonding curve for the emission of Swarm token (BZZ)
 * Did some numerical stress-tests in gnu bc
 * Discussed and validated the design with experts in the field
 * Finished the design and architecture part of the Book of Swarm, specs are in the making
 
-![Image for post](https://miro.medium.com/max/1200/0*cwavyTAqKeqMgjzt.jpeg =600x50)
+### Events Track
 
 Viktor announced the Book of Swarm at Noncon 2020. [Watch his talk here.](https://www.youtube.com/watch?v=4tVvMhDqxX0&feature=youtu.be)
 
-![Image for post](https://miro.medium.com/max/1200/0*BMNimfemyuNyQS7f.jpeg =600x50)
+### Let's Stay In Touch
 
 * The Swarm team is reachable on [**Mattermost.**](http://beehive.ethswarm.org/)
 * Discussions about Swarm on [**/r/ethswarm**](https://www.reddit.com/r/ethswarm) and [**/r/ethereum**](https://www.reddit.com/r/ethereum)subreddits.
