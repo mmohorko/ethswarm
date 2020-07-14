@@ -12,7 +12,7 @@ Here is what we’ve been up to in the last month. The [Book of Swarm](https://m
 
 We have divided the update into different tracks so that you can quickly scan and read the parts that you are interested in. Let’s dive in!
 
-### Core Track
+### Core Track 
 
 * Swarm’s quarterly hackweek that was planned to take place in Mallorca was held online because of the world pandemic situation. Important decisions for the whole Swarm project were made. It was decided that all efforts will be focused on the recently started [Bee project](https://github.com/ethersphere/bee), with the goal for it to be the reference implementation of the Swarm.
 * This online hackweek was used constructively to give updates and discuss with the team about the state of Swarm and Bee projects.
