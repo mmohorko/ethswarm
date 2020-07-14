@@ -1,11 +1,9 @@
 +++
 avatar = "/images/miha.jpg"
-bio = "Lorem ipsum dolores .... "
+bio = ""
 draft = true
-featured = true
+featured = false
+social = []
 title = "Miha Mohorko"
-[[social]]
-title = "Twitter"
-url = "https://twitter.com/mmohorko"
 
 +++
