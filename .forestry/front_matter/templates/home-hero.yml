@@ -7,7 +7,7 @@ fields:
   config:
     required: false
   label: Heading
-  description: The text displayed in the hero
+  description: Tole se ureja pod settingsi v Front Matter
 - name: maxWidthPX
   type: number
   label: Max Width
