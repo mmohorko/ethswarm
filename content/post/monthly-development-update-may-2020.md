@@ -11,7 +11,7 @@ title = "Monthly Development Update — May 2020"
 
 We are happy to share the first public pre-release of the [**Book Of Swarm**](https://swarm-gateways.net/bzz:/latest.bookofswarm.eth/the-book-of-swarm-viktor-tron-v0.1-pre-release.pdf)(hosted on Swarm), which is now available for your reading pleasure. Feedback and suggestions on the book are more than welcome. Please reach out via [bookofswarm@ethswarm.org](mailto:bookofswarm@ethswarm.org) if you would like to participate in the peer review.
 
-## **Core Track**
+## **Core Track** 
 
 **Bee project**
 
