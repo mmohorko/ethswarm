@@ -1,7 +1,6 @@
 +++
 authors = []
 date = 2020-06-04T22:00:00Z
-draft = true
 excerpt = "Swarm’s Dev Team made great progress in the last month, here is the gist"
 hero = "/images/swarm-logo.jpg"
 timeToRead = 7
