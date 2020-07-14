@@ -1,7 +1,6 @@
 +++
 authors = []
 date = 2020-03-10T23:00:00Z
-draft = true
 excerpt = "EthCC is a major date every year in the crypto calendar, so no surprise that the official announcement of the Swarm MVP took place in Paris last week. Amongst the many exciting talks on DApps, Gregor shared Swarm’s vision on the future of decentralized storage."
 hero = "/images/screenshot-2020-07-14-at-13-58-32.png"
 timeToRead = 2
