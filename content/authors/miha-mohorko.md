@@ -2,7 +2,7 @@
 avatar = "/images/miha.jpg"
 bio = "Lorem ipsum dolores .... "
 draft = true
-featured = false
+featured = true
 title = "Miha Mohorko"
 [[social]]
 title = "Twitter"
